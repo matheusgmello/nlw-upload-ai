@@ -1,26 +1,25 @@
 # Upload-AI 🤖
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheusgmello/readme-example/edit/main/README.md)
 
-# Sobre o projeto
-Upload-AI - Aplicação full-stack desenvolvida durante a 13ª edição da Next Level Week (NLW) da [Rocketseat](https://www.rocketseat.com.br/), possui funcionalidades que possibilitam uploads de vídeos por meio de IA, criando automaticamente títulos chamativos e descrições com uma boa indexação. Conta com as seguintes funcionalidades:
-- Prompt para gerar descrição para vídeos
-- Prompt para gerar títulos para vídeos
-- Regulador de temperatura para ajustar o resultado dos prompts
+# About the project
+Upload-AI - Full-stack application developed during the 13th edition of the Next Level Week (NLW) by [Rocketseat](https://www.rocketseat.com.br/). It features functionalities that allow video uploads through AI,
+automatically generating catchy titles and well-indexed descriptions. It includes the following features:
 
+- Prompt to generate video descriptions
+- Prompt to generate video titles
+- Temperature regulator to adjust the prompts' output.
 
-## Interface Web
+## Web Interface
 ![Web 1](https://github.com/matheusgmello/nlw-upload-ai/blob/main/assets/Final-Interface.png)
 
-## Prompt Gerado
+## Generated Prompt
 ![Prompt 1](https://github.com/matheusgmello/nlw-upload-ai/blob/main/assets/Prompt-Img-Example.png)
 
-# Tecnologias
-
-## Front end
+# Technologies
 - React
 - TypeScript
-- WebAssembly
 - Tailwind
+- WebAssembly
 
 ## Back end
 - NodeJS
@@ -29,39 +28,35 @@ Upload-AI - Aplicação full-stack desenvolvida durante a 13ª edição da Next 
 - Fastify
 - SQLite
 
-# Como executar
+# How to run
 
-## Pré requisitos
-- NodeJS
-- Pnpm
-
+## Prerequisites
 ### Backend
 ```bash
-# clonar repositório
+# to clone the repository
 git clone git@github.com:matheusgmello/nlw-upload-ai.git
 
-# entrar na pasta do projeto back end
+# navigate to backend folder
 cd upload-ai-api
 
-# executar o projeto
+# run the project
 pnpm run dev
 ```
 
 ### Frontend
 ```bash
-# clonar repositório
+# to clone the repository
 git clone git@github.com:matheusgmello/nlw-upload-ai.git
 
-# entrar na pasta do projeto frontend
+# navigate to frontend folder
 cd upload-ai-web
 
-# instalar as dependencias
+# install the dependencies
 pnpm i
 
-# executar o projeto
+# run the project
 pnpm run dev
 ```
 
-### Autor
+## Author
 [Matheus Gabriel Fleck de Mello](https://www.linkedin.com/in/matheus-gabriel-fleck-de-mello/)
-
