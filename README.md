@@ -1,7 +1,7 @@
 # Upload-AI 🤖
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheusgmello/readme-example/edit/main/README.md)
 
-## Readme em [PT-BR](README-PT.MD) 📜
+## Readme em [PT-BR](https://github.com/matheusgmello/upload-ai/blob/main/README-PT.md) 📜
 
 # About the project
 Upload-AI - Full-stack application developed during the 13th edition of the Next Level Week (NLW) by [Rocketseat](https://www.rocketseat.com.br/). It features functionalities that allow video uploads through AI,
