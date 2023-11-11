@@ -1,7 +1,9 @@
-# Upload-AI 🤖
+<h1 align="center" style="font-size:36px;">Upload-AI 🤖</h1>
+
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheusgmello/readme-example/edit/main/README.md)
 
-## Readme em [PT-BR](https://github.com/matheusgmello/upload-ai/blob/main/README-PT.md) 📜
+# Readme em [PT-BR](https://github.com/matheusgmello/upload-ai/blob/main/README-PT.md) 📜
 
 # About the project
 Upload-AI - Full-stack application developed during the 13th edition of the Next Level Week (NLW) by [Rocketseat](https://www.rocketseat.com.br/). It features functionalities that allow video uploads through AI,
@@ -18,21 +20,20 @@ automatically generating catchy titles and well-indexed descriptions. It include
 ![Prompt 1](https://github.com/matheusgmello/nlw-upload-ai/blob/main/assets/Prompt-Img-Example.png)
 
 # Technologies
-- React
-- TypeScript
-- Tailwind
-- WebAssembly
+- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [WebAssembly](https://webassembly.org/)
+- [ShadcnUI](https://ui.shadcn.com/docs/installation/manual)
 
 ## Back end
-- NodeJS
-- TypeScript
-- Prisma
-- Fastify
-- SQLite
+- [Node](https://nodejs.org/en/docs)
+- [Prisma](https://www.prisma.io/)
+- [Fastify](https://fastify.dev/)
+- [Zod](https://zod.dev/)
 
 # How to run
 
-## Prerequisites
 ### Backend
 ```bash
 # to clone the repository
