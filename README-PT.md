@@ -1,4 +1,6 @@
-# Upload-AI 🤖
+<h1 align="center" style="font-size:36px;">Upload-AI 🤖</h1>
+
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheusgmello/readme-example/edit/main/README.md)
 
 # Sobre o projeto
@@ -17,24 +19,20 @@ Upload-AI - Aplicação full-stack desenvolvida durante a 13ª edição da Next 
 # Tecnologias
 
 ## Front end
-- React
-- TypeScript
-- WebAssembly
-- Tailwind
+
+- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [WebAssembly](https://webassembly.org/)
+- [ShadcnUI](https://ui.shadcn.com/docs/installation/manual)
+
 
 ## Back end
-- NodeJS
-- TypeScript
-- Prisma
-- Fastify
-- SQLite
-
+- [Node](https://nodejs.org/en/docs)
+- [Prisma](https://www.prisma.io/)
+- [Fastify](https://fastify.dev/)
+- [Zod](https://zod.dev/)
 # Como executar
-
-## Pré requisitos
-- NodeJS
-- Pnpm
-
 ### Backend
 ```bash
 # clonar repositório
