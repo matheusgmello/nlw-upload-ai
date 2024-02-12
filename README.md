@@ -1,65 +1,43 @@
-<h1 align="center" style="font-size:36px;">Upload-AI 🤖</h1>
+![Cover](./.github/cover.png)
+
+# Upload AI
+
+Um sistema com a capacidade de fazer upload de vídeos através de inteligência artificial, gerando automaticamente títulos e descrições cativantes.
+
+   - Prompt para gerar descrições de vídeos
+   - Prompt para gerar títulos de vídeos
+   - Regulador de temperatura para ajustar o resultado dos prompts
+
+# Configurações 
+
+### (API)
+- Clone o repositório
+- Entre na pasta (`cd api`)
+- Instalar dependências (`pnpm i`)
+- Configure o arquivo `.env` (`OPENAI_KEY`)
+- Rode a aplicação (`pnpm run dev`)
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheusgmello/readme-example/edit/main/README.md)
+### (Web)
+  - Entre na pasta (`cd web`)
+  - Instalar dependências (`pnpm i`)
+  - Rode a aplicação (`pnpm run dev`)
 
-# Readme em [PT-BR](https://github.com/matheusgmello/upload-ai/blob/main/README-PT.md) 📜
+# Tecnologias
 
-# About the project
-Upload-AI - Full-stack application developed during the 13th edition of the Next Level Week (NLW) by [Rocketseat](https://www.rocketseat.com.br/). It features functionalities that allow video uploads through AI,
-automatically generating catchy titles and well-indexed descriptions. It includes the following features:
-
-- Prompt to generate video descriptions
-- Prompt to generate video titles
-- Temperature regulator to adjust the prompts' output.
-
-## Web Interface
-![Web 1](https://github.com/matheusgmello/nlw-upload-ai/blob/main/assets/Final-Interface.png)
-
-## Generated Prompt
-![Prompt 1](https://github.com/matheusgmello/nlw-upload-ai/blob/main/assets/Prompt-Img-Example.png)
-
-# Technologies
-- [React](https://react.dev/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Tailwind](https://tailwindcss.com/)
-- [WebAssembly](https://webassembly.org/)
-- [ShadcnUI](https://ui.shadcn.com/docs/installation/manual)
-
-## Back end
-- [Node](https://nodejs.org/en/docs)
-- [Prisma](https://www.prisma.io/)
 - [Fastify](https://fastify.dev/)
-- [Zod](https://zod.dev/)
+- [Open AI](https://platform.openai.com/docs/introduction)
+- [React](https://react.dev/)
+- [ffmpeg wasm](https://ffmpegwasm.netlify.app/playground)
+- [Node](https://nodejs.org/en)
 
-# How to run
+<!--START_SECTION:footer-->
+<br />
 
-### Backend
-```bash
-# to clone the repository
-git clone git@github.com:matheusgmello/nlw-upload-ai.git
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusgmello)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/math7zw)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusgmello/)
 
-# navigate to backend folder
-cd upload-ai-api
 
-# run the project
-pnpm run dev
-```
-
-### Frontend
-```bash
-# to clone the repository
-git clone git@github.com:matheusgmello/nlw-upload-ai.git
-
-# navigate to frontend folder
-cd upload-ai-web
-
-# install the dependencies
-pnpm i
-
-# run the project
-pnpm run dev
-```
-
-## Author
-[Matheus Gabriel Fleck de Mello](https://www.linkedin.com/in/matheus-gabriel-fleck-de-mello/)
+<!--END_SECTION:footer-->
